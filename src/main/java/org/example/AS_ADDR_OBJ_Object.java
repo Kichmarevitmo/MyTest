@@ -1,6 +1,6 @@
 package org.example;
 
-public class Object {
+public class AS_ADDR_OBJ_Object {
 
     private String objectId;
     private String name;
@@ -10,7 +10,7 @@ public class Object {
     private String isActual;
     private String isActive;
 
-    public Object(String objectId, String name, String typeName, String startDate, String endDate, String isActual, String isActive) {
+    public AS_ADDR_OBJ_Object(String objectId, String name, String typeName, String startDate, String endDate, String isActual, String isActive) {
         this.objectId = objectId;
         this.name = name;
         this.typeName = typeName;
